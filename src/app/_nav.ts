@@ -257,6 +257,11 @@ export const navItems: NavData[] = [
     attributes: { disabled: true },
   },
   {
+    name: 'Hanad',
+    url: 'Hanad',
+    icon: 'icon-speedometer'
+  },
+  {
     name: 'Download CoreUI',
     url: 'http://coreui.io/angular/',
     icon: 'icon-cloud-download',
